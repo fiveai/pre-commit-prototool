@@ -4,3 +4,9 @@
   entry: bin/1.8.1/prototool-Linux-x86_64
   language: script
   pass_filenames: false
+- id: "prototool:1.10.0"
+  name: prototool v1.10.0
+  description: Tool to format and lint protobuf definition files
+  entry: bin/1.10.0/prototool.bash
+  language: script
+  pass_filenames: false

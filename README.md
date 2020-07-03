@@ -8,7 +8,7 @@ repos:
   - repo: https://github.com/fiveai/pre-commit-prototool
     rev: master
     hooks:
-      - id: "prototool:1.8.1"
+      - id: "prototool:1.10.0"
         name: prototool lint
         args: ["lint"]
 ```
